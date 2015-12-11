@@ -29,6 +29,8 @@ include ('config/setup.php');
 	
 	<?php if ($debug==1) { include('widgets/debug.php'); } ?>
 	
+	<div><h1>END</h1></div>
+	
 </body>
 
 </html>
